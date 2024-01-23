@@ -1,3 +1,5 @@
+![logo](https://i3.wp.com/raw.githubusercontent.com/Quamagi/Speedchrome/main/logo.jpg)
+
 Este script de Windows optimiza el rendimiento de Navegadores Basado en Chromiun mediante la realización de los siguientes cambios:
 
 Establece el límite de memoria de Chromium a 4 GB. Esto puede ayudar a mejorar el rendimiento en sistemas con poca memoria.
