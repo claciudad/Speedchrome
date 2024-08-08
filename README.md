@@ -1,8 +1,4 @@
-![logo](https://i3.wp.com/raw.githubusercontent.com/Quamagi/htmlplus/main/logo.png)
 
-Claro, puedo ayudarte a mejorar el script y proporcionar una estructura más clara para las instrucciones. Aquí está una versión mejorada:
-
----
 
 # Optimizador de Rendimiento para Navegadores Basados en Chromium (Windows)
 
