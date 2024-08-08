@@ -1,4 +1,4 @@
-
+![logo](https://i3.wp.com/raw.githubusercontent.com/Quamagi/Speedchrome/main/logo.jpg)
 
 # Optimizador de Rendimiento para Navegadores Basados en Chromium (Windows)
 
