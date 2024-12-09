@@ -61,7 +61,7 @@ configure_browser() {
         echo "La precarga de páginas ya está deshabilitada para $browser."
     fi
 
-    # Establecer el límite de memoria a 4 GB
+    # Establecer el límite de memoria a 4 GB si es 32gb 32768
     # Nota: No todos los navegadores soportan esta configuración directamente
     # Aquí se establece una variable de entorno que podría ser utilizada por el navegador
     export CHROME_MAX_MEMORY=4096
